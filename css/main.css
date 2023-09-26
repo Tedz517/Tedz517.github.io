@@ -571,7 +571,7 @@ strong {
 
 .about-image {
   border-radius: var(--border-radius-small);
-  max-width: 65%;
+  max-width: 95%;
   height: auto;
 }
 
